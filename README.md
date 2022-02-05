@@ -7,6 +7,10 @@ Simple bot template using typescript & slash commands
 * `start` -> Builds & starts the bot
 * `dev` -> Start the bot in dev mode (auto restart on file change)
 * `build` -> Build JavaScript code
+* `tasks`
+  * `commands`
+    * `tasks:commands:register` -> Register all slash commands
+    * `tasks:commands:unregister` -> Unregister all slash commands
 
 ## ENV
 
